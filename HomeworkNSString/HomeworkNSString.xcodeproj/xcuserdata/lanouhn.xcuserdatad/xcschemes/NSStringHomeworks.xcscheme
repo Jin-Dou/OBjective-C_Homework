@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "34EBA36D1A7F7A5300554C56"
-               BuildableName = "Day16_4W_Class"
-               BlueprintName = "Day16_4W_Class"
-               ReferencedContainer = "container:Day16_4W_Class.xcodeproj">
+               BlueprintIdentifier = "34BF33581AA86AAF00F06D37"
+               BuildableName = "NSStringHomeworks"
+               BlueprintName = "NSStringHomeworks"
+               ReferencedContainer = "container:NSStringHomeworks.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34EBA36D1A7F7A5300554C56"
-            BuildableName = "Day16_4W_Class"
-            BlueprintName = "Day16_4W_Class"
-            ReferencedContainer = "container:Day16_4W_Class.xcodeproj">
+            BlueprintIdentifier = "34BF33581AA86AAF00F06D37"
+            BuildableName = "NSStringHomeworks"
+            BlueprintName = "NSStringHomeworks"
+            ReferencedContainer = "container:NSStringHomeworks.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34EBA36D1A7F7A5300554C56"
-            BuildableName = "Day16_4W_Class"
-            BlueprintName = "Day16_4W_Class"
-            ReferencedContainer = "container:Day16_4W_Class.xcodeproj">
+            BlueprintIdentifier = "34BF33581AA86AAF00F06D37"
+            BuildableName = "NSStringHomeworks"
+            BlueprintName = "NSStringHomeworks"
+            ReferencedContainer = "container:NSStringHomeworks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "34EBA36D1A7F7A5300554C56"
-            BuildableName = "Day16_4W_Class"
-            BlueprintName = "Day16_4W_Class"
-            ReferencedContainer = "container:Day16_4W_Class.xcodeproj">
+            BlueprintIdentifier = "34BF33581AA86AAF00F06D37"
+            BuildableName = "NSStringHomeworks"
+            BlueprintName = "NSStringHomeworks"
+            ReferencedContainer = "container:NSStringHomeworks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
